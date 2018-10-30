@@ -48,7 +48,7 @@ OpenCV görüntü işleme kütüphaneleri arasında en popüler ve en çok kulla
 
 Bu soru daha çok yeni başlayanlar veya projesinde hangi sürümü kullanmasına karar veremeyenler tarafından geliyor. Bu sürümleri kesin bir çizgiyle bir birinden ayırmamak gerekiyor, yani Python 2 ile Python 3 arasındaki ayrım gibi düşünülmemeli. Sürekli geliştirilen bir kütüphane ve yenilendikçe üzerine bir şeyler katıldıkça versiyonlama sisteminin doğası gereği major atlıyor. (Versiyonlama sistemlerinde x.x.x.x şeklinde giden numaralandırma Major, Minor, Build,Revision olarak adlandırılır.) Öğrenmek veya bir şeyler denemek için indiriyorsanız en güncel sürüm olan 3.1 i kullanmanızı öneririm veya iki sürümüde referans olarak ekleyip aynı projede kullanabilirsiniz bunun için bir engel bulunmuyor.
 
-3.x sürümünde daha çok mobil (ios,android), Intel işlemciler ve ARM mimarisi (iOT kartlar, FPGI vb.) için iyileştirmeler yapıldı. Açık kaynak kod olması sebebiyle de bağımsız geliştiriciler tarafından bir çok yeni paket eklendi. Eski algoritmalar çıkartıldı ve yerlerine yenileri eklendi bu sebeple de paketlerde yeni bir düzenlemeye gidildi. Java geliştiricisi değilseniz paketlerdeki değişiklikler sizi çok ilgilendirmiyor olabilir :).
+3.x sürümünde daha çok mobil (ios,android), Intel işlemciler ve ARM mimarisi (iOT kartlar, FPGA vb.) için iyileştirmeler yapıldı. Açık kaynak kod olması sebebiyle de bağımsız geliştiriciler tarafından bir çok yeni paket eklendi. Eski algoritmalar çıkartıldı ve yerlerine yenileri eklendi bu sebeple de paketlerde yeni bir düzenlemeye gidildi. Java geliştiricisi değilseniz paketlerdeki değişiklikler sizi çok ilgilendirmiyor olabilir :).
 
 Eklenen bazı özellikler:
 
